@@ -1,4 +1,4 @@
-# app-diego-cruz
+# app-proyecto-de-grado
 
 ## Project setup
 ```
